@@ -1,5 +1,7 @@
-Chef_Ginger_cat HAT=Festive
+Chef_Snowman HAT=Festive
 Chef_Werewolf
+65-Daimao
+67-Jixuanyou
 00-Fox
 01-ArcticFox
 02-Penguin_Blue
@@ -21,11 +23,10 @@ Chef_Werewolf
 18-Werewolf_brown
 19-Everpeckish
 20-ArcticFox_glasses
-65-Daimao
 Chef_Beard
 Chef_Black_cat
 Chef_Gertie
-Chef_Snowman
+Chef_Ginger_cat
 Chef_Mike
 Chef_Specs
 Chef_Buck
