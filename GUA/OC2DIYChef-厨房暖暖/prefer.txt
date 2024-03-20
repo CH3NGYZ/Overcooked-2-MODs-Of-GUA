@@ -1,4 +1,5 @@
 Chef_Snowman HAT=Festive
+69-MikuFufu HAT=None
 Chef_Werewolf
 65-Daimao
 67-Jixuanyou
