@@ -1,10 +1,13 @@
 Chef_Snowman HAT=Festive
 Chef_Werewolf
-70-Steve HAT=None
-74-Xiyangyang HAT=None
+65-Daimao HAT=None
+67-Jixuanyou HAT=None
 69-MikuFufu HAT=None
-65-Daimao
-67-Jixuanyou
+70-Steve HAT=None
+71-Chiikawa HAT=None
+72-Hachi HAT=None
+73-Usaqi HAT=None
+74-Xiyangyang HAT=None
 00-Fox
 01-ArcticFox
 02-Penguin_Blue
