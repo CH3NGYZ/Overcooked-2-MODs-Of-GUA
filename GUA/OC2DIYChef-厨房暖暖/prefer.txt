@@ -8,6 +8,8 @@ Chef_Werewolf
 72-Hachi HAT=None
 73-Usaqi HAT=None
 74-Xiyangyang HAT=None
+129-YING
+130-Jirachi HAT=None
 00-Fox
 01-ArcticFox
 02-Penguin_Blue
