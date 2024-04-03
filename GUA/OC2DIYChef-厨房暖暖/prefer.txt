@@ -12,6 +12,7 @@ Chef_Werewolf
 130-Jirachi HAT=None
 132-Spider HAT=None
 133-Skull HAT=None
+134-Icelulu HAT=None
 00-Fox
 01-ArcticFox
 02-Penguin_Blue
