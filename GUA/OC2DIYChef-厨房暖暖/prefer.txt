@@ -13,6 +13,7 @@ Chef_Werewolf
 132-Spider HAT=None
 133-Skull HAT=None
 134-Icelulu HAT=None
+135-GRIL_L_T1 HAT=None
 00-Fox
 01-ArcticFox
 02-Penguin_Blue
