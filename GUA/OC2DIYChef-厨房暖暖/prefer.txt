@@ -1,5 +1,5 @@
 Chef_Snowman HAT=Festive
-Chef_Werewolf
+Chef_Werewolf HAT=Festive
 65-Daimao HAT=None
 67-Jixuanyou HAT=None
 69-MikuFufu HAT=None
@@ -8,12 +8,17 @@ Chef_Werewolf
 72-Hachi HAT=None
 73-Usaqi HAT=None
 74-Xiyangyang HAT=None
-129-YING
+129-YING HAT=None
 130-Jirachi HAT=None
 132-Spider HAT=None
 133-Skull HAT=None
 134-Icelulu HAT=None
 135-GRIL_L_T1 HAT=None
+136-GRIL_L_T2 HAT=None
+137-ZZBear_Pink HAT=None
+138-ZZBear_Brown HAT=None
+139-ZZBear_Green HAT=None
+140-ZZBear_Blue HAT=None
 00-Fox
 01-ArcticFox
 02-Penguin_Blue
