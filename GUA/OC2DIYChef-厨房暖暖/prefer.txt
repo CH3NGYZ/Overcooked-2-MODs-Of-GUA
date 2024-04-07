@@ -8,6 +8,8 @@ Chef_Werewolf HAT=Festive
 72-Hachi HAT=None
 73-Usaqi HAT=None
 74-Xiyangyang HAT=None
+75-Meiyangyang HAT=None
+76-Feiyangyang HAT=None
 129-YING HAT=None
 130-Jirachi HAT=None
 132-Spider HAT=None
@@ -19,6 +21,10 @@ Chef_Werewolf HAT=Festive
 138-ZZBear_Brown HAT=None
 139-ZZBear_Green HAT=None
 140-ZZBear_Blue HAT=None
+141-Chiikawa
+142-Hachi
+143-Usaqi
+144-Anya
 00-Fox
 01-ArcticFox
 02-Penguin_Blue
