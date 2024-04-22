@@ -15,14 +15,9 @@ jobs:
       - name: checkout
         uses: actions/checkout@v1
 
-      - name: Install 7-Zip
-        run: |
-          choco install 7zip.commandline
-
       - name: Compress Files
-        run: |
-          cd $Env:GITHUB_WORKSPACE
-          & "C:\Program Files\7-Zip\7z.exe" a $Env:GITHUB_WORKSPACE\GUA.zip $Env:GITHUB_WORKSPACE\GUA
+        run: Compress-Archive -Path "$Env:GITHUB_WORKSPACE\GUA" -DestinationPath "$Env:GITHUB_WORKSPACE\GUA.zip"
+
       - name: Show CHA Folder
         run: |
           ls $Env:GITHUB_WORKSPACE\GUA
