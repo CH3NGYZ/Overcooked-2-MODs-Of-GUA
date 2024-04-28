@@ -47,6 +47,7 @@ Chef_Werewolf HAT=Festive
 18-Werewolf_brown
 19-Everpeckish
 20-ArcticFox_glasses
+21-Swedish
 Chef_Beard
 Chef_Black_cat
 Chef_Gertie
