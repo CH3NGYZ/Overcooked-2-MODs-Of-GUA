@@ -11,6 +11,7 @@ Chef_Werewolf HAT=Festive
 75-Meiyangyang HAT=None
 76-Feiyangyang HAT=None
 78-Dapengu HAT=None
+81-Xiaozhupeiqi HAT=None
 129-YING HAT=None
 130-Jirachi HAT=None
 132-Spider HAT=None
